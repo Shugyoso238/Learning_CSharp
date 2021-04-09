@@ -1,0 +1,7 @@
+C:\C#\Learning\Learning\bin\Debug\Learning.exe.config
+C:\C#\Learning\Learning\bin\Debug\Learning.exe
+C:\C#\Learning\Learning\bin\Debug\Learning.pdb
+C:\C#\Learning\Learning\obj\Debug\Learning.csprojAssemblyReference.cache
+C:\C#\Learning\Learning\obj\Debug\Learning.csproj.CoreCompileInputs.cache
+C:\C#\Learning\Learning\obj\Debug\Learning.exe
+C:\C#\Learning\Learning\obj\Debug\Learning.pdb
