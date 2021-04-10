@@ -1,0 +1,6 @@
+C:\C#\Learning\Control003\bin\Debug\Control003.exe.config
+C:\C#\Learning\Control003\bin\Debug\Control003.exe
+C:\C#\Learning\Control003\bin\Debug\Control003.pdb
+C:\C#\Learning\Control003\obj\Debug\Control003.csproj.CoreCompileInputs.cache
+C:\C#\Learning\Control003\obj\Debug\Control003.exe
+C:\C#\Learning\Control003\obj\Debug\Control003.pdb

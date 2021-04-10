@@ -10,16 +10,23 @@ class Learn
         fm.Width = 400;
         fm.Height = 300;
 
-        PictureBox pb = new PictureBox();
+        PictureBox[] pb = new PictureBox[2];
+        for(int i = 0; i < pb.Length; i++)
+        {
+            pb[i] = new PictureBox();
+            pb[i].Parent = fm;
+        }
 
-        Car c = new Car();
-        c.Move();
-        c.Move();
-
-        pb.Image = c.GetImage();
-        pb.Top = c.Top;
-        pb.Left = c.Left;
-        pb.Parent = fm;
+        Car[] c = new Car[2];
+        c[0] = new Car();
+        c[1] = new RacingCar();
+        for (int i = 0; i < c.Length; i++)
+        {
+            c[i].Move();
+            pb[i].Image = c[i].GetImage();
+            pb[i].Top = c[i].Top;
+            pb[i].Left = c[i].Left;
+        }
 
         Application.Run(fm);
     }
@@ -28,8 +35,8 @@ class Learn
 class Car
 {
     private Image image;
-    private int top;
-    private int left;
+    protected int top;
+    protected int left;
 
     public Car()
     {
@@ -38,7 +45,7 @@ class Car
         this.left = 0;
     }
 
-    public void Move()
+    virtual public void Move()
     {
         this.top += 10;
         this.left += 10;
@@ -67,4 +74,13 @@ class Car
     }
 
 
+}
+
+class RacingCar : Car
+{
+    public override void Move()
+    {
+        this.top += 100;
+        this.left += 100;
+    }
 }

@@ -1,0 +1,7 @@
+C:\C#\Learning\Event001\bin\Debug\Event001.exe.config
+C:\C#\Learning\Event001\bin\Debug\Event001.exe
+C:\C#\Learning\Event001\bin\Debug\Event001.pdb
+C:\C#\Learning\Event001\obj\Debug\Event001.csprojAssemblyReference.cache
+C:\C#\Learning\Event001\obj\Debug\Event001.csproj.CoreCompileInputs.cache
+C:\C#\Learning\Event001\obj\Debug\Event001.exe
+C:\C#\Learning\Event001\obj\Debug\Event001.pdb

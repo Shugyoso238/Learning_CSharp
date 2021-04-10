@@ -1,0 +1,7 @@
+C:\C#\Learning\ClassLibraly\bin\Debug\ClassLibraly.exe.config
+C:\C#\Learning\ClassLibraly\bin\Debug\ClassLibraly.exe
+C:\C#\Learning\ClassLibraly\bin\Debug\ClassLibraly.pdb
+C:\C#\Learning\ClassLibraly\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\C#\Learning\ClassLibraly\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\C#\Learning\ClassLibraly\obj\Debug\ClassLibraly.exe
+C:\C#\Learning\ClassLibraly\obj\Debug\ClassLibraly.pdb
